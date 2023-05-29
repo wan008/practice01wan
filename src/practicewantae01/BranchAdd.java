@@ -9,5 +9,6 @@ package practicewantae01;
  * @author bada5
  */
 public class BranchAdd {
-    System.out.println("Add new class");
+    
+    int i = 0;
 }
