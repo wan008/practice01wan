@@ -11,6 +11,9 @@ public class PracticeWanTae01 {
         
         //add local in Netbean for testing
         System.out.println("This is my life");
+        
+        //add a statement in remote repository in GitHub
+        System.out.println("Editing in remote repository of GitHub");
     }
     
 }
